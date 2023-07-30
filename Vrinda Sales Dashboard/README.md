@@ -5,7 +5,7 @@
 <br> 
 <br>
 
-##Actions Performed
+## Actions Performed
 
 - Transformed an interactive and visually appealing Excel dashboard to effectively present complex data sets.
 - Incorporated dynamic charts, graphs, and visualizations to present key insights and trends within the data
