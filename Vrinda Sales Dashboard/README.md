@@ -13,7 +13,7 @@
 - Combined comprehensive KPI frameworks and scorecards in Power BI
 - Utilized advanced Excel functions, such as VLOOKUP, PivotTables, and conditional formatting, to organize and analyze data for the dashboard.
 
-**Insight**
+## Insight
 
 - The peak month for orders was March, with approximately 1.92 million sales.
 - November recorded the lowest number of orders, with around 1.6 million sales.
