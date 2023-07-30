@@ -3,7 +3,13 @@
 <img width="1032" alt="image" src="https://github.com/GauravThaku0/VrindaStore_Sale_report/assets/79090971/2899eabb-b063-4eb6-ace7-eb34a044af74">
 
 <br>
+###Actions Performed
 
+- Transformed an interactive and visually appealing Excel dashboard to effectively present complex data sets.
+- Incorporated dynamic charts, graphs, and visualizations to present key insights and trends within the data
+- Designed intuitive user interfaces and navigation within the Excel dashboard, allowing users to easily access and explore different data views.
+- Combined comprehensive KPI frameworks and scorecards in Power BI
+- Utilized advanced Excel functions, such as VLOOKUP, PivotTables, and conditional formatting, to organize and analyze data for the dashboard.
 
 **Insight**
 
