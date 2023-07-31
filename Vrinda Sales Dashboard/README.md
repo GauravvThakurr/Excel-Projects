@@ -1,6 +1,7 @@
 # VrindaStore_Sale_report
 
-<img width="1032" alt="image" src="https://github.com/GauravThaku0/VrindaStore_Sale_report/assets/79090971/2899eabb-b063-4eb6-ace7-eb34a044af74">
+![Vrinda Store Dashboard (1)_page-0001](https://github.com/GauravvThakurr/Excel_Projects/assets/141028751/62b05067-e33f-4350-a767-607872945a4c)
+
 
 <br> 
 <br>
