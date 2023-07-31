@@ -1,4 +1,5 @@
-# VrindaStore_Sale_report
+# VrindaStore Sale report Dashboard
+![download_image (1)](https://github.com/GauravvThakurr/Excel_Projects/assets/141028751/abe23580-3e85-4438-b098-41f894835e27)
 
 
 ## Actions Performed
