@@ -1,6 +1,6 @@
 # VrindaStore_Sale_report
 
-![Vrinda Store Dashboard (1)_page-0001](https://github.com/GauravvThakurr/Excel_Projects/assets/141028751/62b05067-e33f-4350-a767-607872945a4c)
+
 ## Actions Performed
 
 - Transformed an interactive and visually appealing Excel dashboard to effectively present complex data sets.
