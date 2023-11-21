@@ -1,6 +1,11 @@
 # VrindaStore Sale report Dashboard
 ![download_image (1)](https://github.com/GauravvThakurr/Excel_Projects/assets/141028751/abe23580-3e85-4438-b098-41f894835e27)
 
+## Project Objective
+
+Project Objective:
+
+The primary objective of the Vrinda Store Sales Dashboard project is to analyze and visualize key sales metrics to gain insights into the performance of the store. The dashboard aims to provide a comprehensive view of orders, sales, order status, customer demographics, and product performance. The insights derived from the dashboard will aid in making informed business decisions and optimizing sales strategies.
 
 ## Actions Performed
 
