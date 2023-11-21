@@ -3,8 +3,6 @@
 
 ## Project Objective
 
-Project Objective:
-
 The primary objective of the Vrinda Store Sales Dashboard project is to analyze and visualize key sales metrics to gain insights into the performance of the store. The dashboard aims to provide a comprehensive view of orders, sales, order status, customer demographics, and product performance. The insights derived from the dashboard will aid in making informed business decisions and optimizing sales strategies.
 
 ## Actions Performed
